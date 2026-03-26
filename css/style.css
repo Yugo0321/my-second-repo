@@ -21,7 +21,7 @@ header{
     align-items: center;
     margin: 0 auto;
     padding: 5px 4%;
-    max-width: 960%;
+    max-width: 960px;
 }
 .mv img{
    /* display: block; ←これなくても高さ設定できるのはなぜ？*/
